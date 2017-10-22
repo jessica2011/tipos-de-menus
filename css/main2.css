@@ -1,0 +1,39 @@
+body {
+    font-family: sans-serif;
+}
+
+nav {
+   /* outline: 1px solid yellow;*/
+   
+}
+
+ul {
+    /*outline: 1px solid blue;*/
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    background: rgb(56, 55, 57);
+    line-height: 40px;
+    overflow: auto;
+}
+
+li {
+    /*outline: 1px solid red;*/
+    width: 100px;
+    /*display: inline-block; 1.para que las pestañas esten en forma horizontal*/
+    text-align: center;
+    float: left; /* 2.cada ves que utilicemos float debemos utilizar overflow en la etiqueta contenedor*/
+}
+
+a {
+    /*outline:  1px solid green;*/
+    text-decoration: none;
+    display: block;
+    color: #fff;
+    color: rgb(255, 255, 255)
+}
+
+a:hover {
+    background: #f9a91a;
+    color: #000;
+}
