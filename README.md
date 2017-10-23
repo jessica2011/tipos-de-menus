@@ -5,9 +5,9 @@ Realizar los siguientes tipos de menús:
 
 ## Menú vertical
 
-![menu vertical](assets/images/vertical1.png)
+![menu vertical](assets/images/vertical.gif)
 
 ## Menú horizontal
 
 
-![menu horizontal](assets/images/horizontal1.png)
+![menu horizontal](assets/images/horizontal.gif)
